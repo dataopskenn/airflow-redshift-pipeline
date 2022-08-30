@@ -1,2 +1,6 @@
 # airflow-redshift-pipeline
-data ingestion pipeline to redshift using airflow and cloud formation
+adjustable template data ingestion pipeline to redshift using: 
+- python
+- airflow
+- redshift and
+- cloud formation
